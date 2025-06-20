@@ -1,15 +1,16 @@
-# 📚 MangaSticker para Ensino de Matemática em Pessoas com Síndrome de Down
+# MangaSticker para Ensino de Matemática em Pessoas com Síndrome de Down
 
-🚧 **Projeto em Desenvolvimento**
+**Projeto em Desenvolvimento**
 
 Este repositório contém os **códigos**, **arquivos de hardware**, **documentação** e **materiais relacionados ao Trabalho de Conclusão de Curso (TCC)** da estudante **Dayana Stefany Costa Pamplona**, da **Escola Politécnica e de Artes da PUC Goiás**.
 
 O projeto tem como foco a criação de **atividades interativas** utilizando o **MangaSticker**, uma ferramenta que combina histórias ilustradas (**mangás**) com circuitos adesivos (**circuit stickers**).  
-🎯 O objetivo é apoiar o ensino de **conceitos básicos de matemática e educação financeira para pessoas com Síndrome de Down**, promovendo **atenção, engajamento e aprendizagem de forma lúdica e acessível.**
+
+O objetivo é apoiar o ensino de **conceitos básicos de matemática e educação financeira para pessoas com Síndrome de Down**, promovendo **atenção, engajamento e aprendizagem de forma lúdica e acessível.**
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Desenvolver **atividades interativas** utilizando estímulos visuais, sonoros e táteis.
 - Facilitar o ensino de **conceitos matemáticos básicos**, como identificação de valores e operações simples.
@@ -17,18 +18,18 @@ O projeto tem como foco a criação de **atividades interativas** utilizando o *
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas Utilizadas
+## Tecnologias e Ferramentas Utilizadas
 
-- ⚙️ **Arduino UNO** — Controle dos circuitos.
-- 🎨 **MangaSticker (Python + Processing IDE)** — Desenvolvimento das histórias interativas.
-- 🔊 **DFPlayer Mini** — Reprodução de áudios nas atividades.
-- 💡 **Circuitos Adesivos** — Montagem com fita de cobre, LEDs SMD 3528 e botões SMD 4x4mm.
-- 🔍 **Emolab** — Análise de dados de atenção e engajamento via reconhecimento facial.
-- 📊 **Excel + Python** — Análise estatística dos dados.
+- **Arduino UNO** — Controle dos circuitos.
+- **MangaSticker (Python + Processing IDE)** — Desenvolvimento das histórias interativas.
+- **DFPlayer Mini** — Reprodução de áudios nas atividades.
+- **Circuitos Adesivos** — Montagem com fita de cobre, LEDs SMD 3528 e botões SMD 4x4mm.
+- **Emolab** — Análise de dados de atenção e engajamento via reconhecimento facial.
+- **Excel + Python** — Análise estatística dos dados.
 
 ---
 
-## 📁 Estrutura do Repositório
+## Estrutura do Repositório
 
 /hardware/ → Esquemáticos, diagramas e mapeamento dos circuitos.
 /docs/ → Documentação, monografia, slides e imagens do projeto.
@@ -39,9 +40,9 @@ O projeto tem como foco a criação de **atividades interativas** utilizando o *
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
-### 🎛️ Arduino
+### Arduino
 
 1. Abra o arquivo **`MangaSticker_TCC.ino`** na **IDE do Arduino**.
 2. Instale as bibliotecas necessárias listadas em **`/referencias/bibliotecas_arduino.txt`**.
