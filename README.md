@@ -1,12 +1,14 @@
 # MangaSticker para Ensino de Matemática em Pessoas com Síndrome de Down
 
-**Projeto em Desenvolvimento**
+**Projeto Desenvolvido**
 
 Este repositório contém os **códigos**, **arquivos de hardware**, **documentação** e **materiais relacionados ao Trabalho de Conclusão de Curso (TCC)** da estudante **Dayana Stefany Costa Pamplona**, da **Escola Politécnica e de Artes da PUC Goiás**.
 
 O projeto tem como foco a criação de **atividades interativas** utilizando o **MangaSticker**, uma ferramenta que combina histórias ilustradas (**mangás**) com circuitos adesivos (**circuit stickers**).  
 
 O objetivo é apoiar o ensino de **conceitos básicos de matemática e educação financeira para pessoas com Síndrome de Down**, promovendo **atenção, engajamento e aprendizagem de forma lúdica e acessível.**
+
+https://repositorio.pucgoias.edu.br/jspui/handle/123456789/9367
 
 ---
 
