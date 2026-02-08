@@ -74,14 +74,3 @@ Educadores e profissionais de inclusão.
 Pesquisadores interessados em tecnologias assistivas, acessibilidade e ensino de matemática.
 
 
----
-
-### ✔️ **O que você faz agora:**  
-1. Salva isso num arquivo chamado **`README.md`** na pasta principal do seu repositório (`TCC_MangaSticker_SD/`).  
-2. Faz:
-
-```bash
-git add README.md
-git commit -m "Adicionando README com descrição do projeto"
-git push
-
